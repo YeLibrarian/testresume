@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+*Text - This is more text*
 
-You can use the [editor on GitHub](https://github.com/YeLibrarian/testresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Text bold**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+## Professional Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Scholarly Communication Librarian
+  - In charge of
+## Services
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Code example
+```
+echo "Hello World"
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Linking
 
-### Jekyll Themes
+[Colorado School of Mines](http://mines.edu)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YeLibrarian/testresume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Publications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Li, Y., Lovitt, C. F., McNeil, A., & Shuyler, K. (2016). Improving Information Literacy through Wikipedia Editing in the Chemistry Classroom: Lessons Learned. Integrating Information Literacy into the Chemistry Curriculum, 247ΓÇô264. doi:10.1021/bk-2016-1232.ch013
